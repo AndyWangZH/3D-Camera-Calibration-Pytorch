@@ -1,0 +1,11 @@
+.git
+__pycache__/
+3d_camera_calibration_test_data/
+ellipse_center_correction_test_data/
+Data_capture_20220118/
+*.txt
+*.xyz
+OLD_PCD/
+OLD_TXT/
+temp/
+.gitignore
